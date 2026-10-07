@@ -6,7 +6,7 @@ A time series project that analyzes Tesla (TSLA) stock prices and explores futur
 
 The project includes:
 
-- Historical Tesla stock data from Yahoo Finance
+- Historical Tesla stock data from Yahoo Finance 
 - Price and volume analysis
 - Daily return analysis
 - Candlestick visualization
